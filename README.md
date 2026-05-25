@@ -71,8 +71,5 @@ pip install requests pandas geopy matplotlib
 
 ---
 
-## 👥 Team
 
-- **Sone Phyo** — [@ppyaethu1504](https://github.com/ppyaethu1504)
-- **Teammate** — [@username](https://github.com/username)
 
